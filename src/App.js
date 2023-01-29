@@ -1,12 +1,12 @@
-import React from 'react'
-import Hoc from './Hocfun'
+import React from "react";
+import Forwardreffun from "./Forwardreffun";
 
 const App = () => {
   return (
     <div>
-    <Hoc/>
+      <Forwardreffun />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
